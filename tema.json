@@ -1,0 +1,16 @@
+{
+  "name": "Tema Hapvida",
+  "dataColors": [
+    "#004AAD",
+    "#FF7A00",
+    "#2EAD4B",
+    "#FDB913",
+    "#00A6A6",
+    "#7A869A",
+    "#E53935",
+    "#7B61FF"
+  ],
+  "background": "#F7F9FC",
+  "foreground": "#002B5B",
+  "tableAccent": "#004AAD"
+}
